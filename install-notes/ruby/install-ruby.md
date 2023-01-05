@@ -37,4 +37,4 @@ NOTE: `bundle install` is sort of the equivalent of `npm install` or `yarn insta
 - Gemfile = A file of ruby packages/dependencies (kind of like package.json in the javascript world)
 - Bundler = Ruby equivalent of npm - node package manager (dependency manager/package manager)
 - rvm = Ruby version manager (equivalent to nvm - node version manager)
-
+- homebrew = a macOS software installer (brew install), similar to chocolatey with (choco install).
