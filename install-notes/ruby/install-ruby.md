@@ -34,7 +34,7 @@ NOTE: `bundle install` is sort of the equivalent of `npm install` or `yarn insta
 - Rake = Ruby Make
 - Rakefile = Similar to makefile but for ruby, a task runner. 
 - Gem = Ruby Package
-- Gemfile = A file of ruby packages/dependencies
+- Gemfile = A file of ruby packages/dependencies (kind of like package.json in the javascript world)
 - Bundler = Ruby equivalent of npm - node package manager (dependency manager/package manager)
 - rvm = Ruby version manager (equivalent to nvm - node version manager)
 
