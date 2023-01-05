@@ -22,3 +22,19 @@ OPTIONAL: If you want to install rspec (for ruby BDD tests)...
 ```
 gem install rspec
 ```
+
+OPTIONAL: Install everything in the Gemfile (via the bundler)
+```
+bundle install
+```
+NOTE: `bundle install` is sort of the equivalent of `npm install` or `yarn install`, per se.
+
+
+## Points of Interest
+- Rake = Ruby Make
+- Rakefile = Similar to makefile but for ruby, a task runner. 
+- Gem = Ruby Package
+- Gemfile = A file of ruby packages/dependencies
+- Bundler = Ruby equivalent of npm - node package manager (dependency manager/package manager)
+- rvm = Ruby version manager (equivalent to nvm - node version manager)
+
