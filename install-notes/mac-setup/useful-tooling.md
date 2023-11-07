@@ -15,3 +15,8 @@ Homebrew Install:
 ```
 brew install --cask rectangle
 ```
+
+## 3. Amphetamine
+macOS keep screen always on
+
+Ref: https://apps.apple.com/au/app/amphetamine/id937984704
